@@ -1,6 +1,7 @@
 .PHONY: 1.0.0 1.0.1 1.1.0 1.2.0 3.0.8 3.0.13 3.0.14 3.0.15 3.0.15.1 3.0.16
 
 all: 1.0.0 1.0.1 1.1.0 1.2.0 3.0.8 3.0.13 3.0.14 3.0.15 3.0.15.1 3.0.16
+	ds mkflirt
 
 1.0.0:
 	ds importpdb assets/openssl.flirt 1.0.0/x86/openssl.exe 1.0.0/x86/openssl.pdb openssl 1.0.0
