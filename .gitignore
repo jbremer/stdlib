@@ -1,1 +1,6 @@
 *.flirtbin
+*.segbin
+*.bbl
+*.seg
+*.risc
+*.riscbin
