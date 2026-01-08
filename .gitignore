@@ -4,3 +4,9 @@
 *.seg
 *.risc
 *.riscbin
+
+*.id0
+*.id1
+*.id2
+*.til
+*.nam
